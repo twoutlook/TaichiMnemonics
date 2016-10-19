@@ -1,3 +1,20 @@
+# https://tutorial.djangogirls.org/en/deploy/
+*.pyc
+__pycache__
+myvenv
+
+# Noted by Mark,
+# even for development, 
+# simply copy and paste db.sqlite3
+db.sqlite3
+
+/static
+.DS_Store
+
+
+
+
+# following is for Java
 *.class
 
 # Mobile Tools for Java (J2ME)
