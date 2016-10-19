@@ -87,6 +87,7 @@ vogella http://www.vogella.com/tutorials/Git/article.html#tagging_createlightwei
 
 # check/add/delete local/remote tag
 http://stackoverflow.com/questions/5480258/how-to-delete-a-remote-tag
+    
     // check local tags
     git tag
     
